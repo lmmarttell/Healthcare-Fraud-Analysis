@@ -18,7 +18,7 @@ Healthcare fraud analysis project using Excel, SQL, and Tableau to identify susp
 **Business Problem**
 Healthcare fraud is a major challenge for insurance companies, healthcare providers, and government healthcare programs. Fraudulent claims, unusually high billing amounts, and abnormal provider activity can lead to significant financial losses and increased healthcare costs. Organizations need a data-driven approach to identify suspicious patterns and reduce potential fraud risks.
 
-##Business Questions##
+**Business Questions
 -Which providers submit the highest number of claims?
 -Which providers generate unusually high billing amounts?
 -Are there patients receiving an abnormal number of services?
