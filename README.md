@@ -1,4 +1,4 @@
-# Healthcare-Fraud-Analysis
+
 # Healthcare-Fraud-Analysis
 
 Healthcare fraud analysis project using Excel, SQL, and Tableau to identify suspicious claim patterns and potential fraud indicators.
