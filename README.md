@@ -3,18 +3,6 @@
 
 Healthcare fraud analysis project using Excel, SQL, and Tableau to identify suspicious claim patterns and potential fraud indicators.
 
-## Key Analysis
-- High-cost claims
-- Duplicate claims
-- Fraud indicators
-- Claim patterns
-
-## Skills Demonstrated
-- Data Cleaning
-- SQL Query Writing
-- Data Visualization
-- Business Insights
-
 ## Business Problem
 
 - Healthcare fraud is a major challenge for insurance companies, healthcare providers, and government healthcare programs.
@@ -53,3 +41,17 @@ Healthcare fraud analysis project using Excel, SQL, and Tableau to identify susp
 - Perform regular analysis of high-cost claim categories.
 - Use predictive analytics to proactively identify potential fraud before claim payment.
 - Develop ongoing reporting dashboards to monitor provider billing behavior.
+
+
+## Key Analysis
+- High-cost claims
+- Duplicate claims
+- Fraud indicators
+- Claim patterns
+
+## Skills Demonstrated
+- Data Cleaning
+- SQL Query Writing
+- Data Visualization
+- Business Insights
+
