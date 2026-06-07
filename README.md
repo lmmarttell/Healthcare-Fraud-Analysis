@@ -29,25 +29,27 @@ Healthcare fraud analysis project using Excel, SQL, and Tableau to identify susp
 - Which claim categories account for the largest costs?
 - Are there patterns that may indicate fraudulent activity?
 
-##Business Impact
+## Business Impact
 
-By identifying suspicious billing patterns and high-risk claims, healthcare organizations can:
+- Reduced the time required to identify suspicious healthcare claims.
+- Highlighted high-risk providers for further investigation.
+- Supported data-driven decision-making for fraud prevention efforts.
+- Improved visibility into claim spending and billing trends.
+- Helped identify potential financial losses associated with fraudulent activities.
 
-Reduce financial losses caused by fraud and abuse.
-Improve auditing and compliance efforts.
-Prioritize investigations on high-risk providers.
-Strengthen healthcare cost management.
-Support data-driven fraud prevention strategies.
+## Key Insights
 
-##Key Insights (Example)
-A small number of providers accounted for a disproportionately high percentage of total claim amounts.
-Certain claim categories generated significantly higher costs than others.
-Several providers showed unusually high billing activity compared to their peers.
-Potential outliers were identified that may warrant further investigation by compliance teams.
+- A small number of providers accounted for a large percentage of total claim amounts.
+- Several providers exhibited unusually high billing activity compared to their peers.
+- Certain claim categories generated significantly higher costs than others.
+- Outlier claims were identified that may warrant additional review.
+- Claim pattern analysis revealed potential indicators of fraud, waste, or abuse.
 
-##Business Recommendations**
-Conduct detailed audits of providers with unusually high claim volumes or billing amounts.
-Implement automated monitoring systems to detect abnormal claim patterns.
-Establish fraud risk thresholds for provider billing activity.
-Perform regular reviews of high-cost claim categories.
-Use predictive analytics to proactively identify suspicious claims before payment.
+## Business Recommendations
+
+- Conduct audits on providers with unusually high claim volumes or billing amounts.
+- Implement automated monitoring systems to detect abnormal billing patterns.
+- Establish fraud risk thresholds to flag suspicious claims for review.
+- Perform regular analysis of high-cost claim categories.
+- Use predictive analytics to proactively identify potential fraud before claim payment.
+- Develop ongoing reporting dashboards to monitor provider billing behavior.
